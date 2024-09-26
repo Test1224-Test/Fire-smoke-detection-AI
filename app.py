@@ -5,7 +5,6 @@ import numpy as np
 import io
 import PIL
 import utils
-import utilsub
 from PIL import Image
 from camera_input_live import camera_input_live
 
